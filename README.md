@@ -2,7 +2,7 @@
 Plugins for airgeddon https://github.com/v1s1t0r999/getAir2U
 
 # Author:     v1s1t0r999
-# Repository: https://github.com/KeyofBlueS/getAir2U_Plugins
+# Repository: https://github.com/v1s1t0r999/getAir2U_Plugins
 # License:    GNU General Public License v3.0, https://opensource.org/licenses/GPL-3.0
 
 ### DESCRIPTION
