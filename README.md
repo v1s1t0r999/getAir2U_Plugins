@@ -1,5 +1,4 @@
 # getAir2U_Plugins
-Plugins for airgeddon https://github.com/v1s1t0r999/getAir2U
 
 # Author:     v1s1t0r999
 # Repository: https://github.com/v1s1t0r999/getAir2U_Plugins
@@ -8,7 +7,7 @@ Plugins for airgeddon https://github.com/v1s1t0r999/getAir2U
 ### DESCRIPTION
 
 * **Captured-Handshakes:**
-Put Your captured handshakes files in a directory of Your choice, then choose one of them inside airgeddon itself. Default path is plugins/captured_handshakes/HANDSHAKES_FILES
+Put Your captured handshakes files in a directory of Your choice, then choose one of them inside getAir2U itself. Default path is plugins/captured_handshakes/HANDSHAKES_FILES
 
 * **Custom-Portals:**
 Put Your custom captive portal files in a directory of Your choice. Default path is plugins/custom_portals/PORTAL_FOLDER/PORTAL_FILES.
@@ -41,3 +40,4 @@ Simply put the .sh file of your choice in getAir2U's plugins folder.
 Some plugins can be configured, so please take a look at ***# USER CONFIG SECTION #*** inside the .sh file before use.
 
 ### ***OKIE DOKIE, BYE!!***
+# 
