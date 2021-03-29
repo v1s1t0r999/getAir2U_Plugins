@@ -2,23 +2,22 @@
 
 # Custom-Portals airgeddon plugin
 
-# Version:    0.1.5
-# Author:     KeyofBlueS
-# Repository: https://github.com/KeyofBlueS/airgeddon-plugins
+# Author:     v1s1t0r999
+# Repository: https://github.com/v1s1t0r999/getAir2U_Plugins
 # License:    GNU General Public License v3.0, https://opensource.org/licenses/GPL-3.0
 
-# airgeddon Repository: https://github.com/v1s1t0r1sh3r3/airgeddon
+# getAir2U Repository: https://github.com/v1s1t0r999/getAir2U
 
 #Global shellcheck disabled warnings
 #shellcheck disable=SC2034,SC2154
 
 plugin_name="Custom-Portals"
 plugin_description="Use Your own captive portals"
-plugin_author="KeyofBlueS"
+plugin_author="v1s1t0r999"
 
 plugin_enabled=1
 
-plugin_minimum_ag_affected_version="10.20"
+plugin_minimum_ag_affected_version="1.0.0"
 plugin_maximum_ag_affected_version=""
 plugin_distros_supported=("*")
 
