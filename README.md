@@ -1,3 +1,4 @@
+SORRY BUT THERE WON'T BE ANY UPDATES FOR NEXT 2 YEARS. PLEASE VISIT <https://github.com/v1s1t0r999/> AND SEE THE README.md
 # getAir2U_Plugins
 
 # Author:     v1s1t0r999
